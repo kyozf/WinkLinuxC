@@ -1,6 +1,6 @@
 # WinkLinuxC
 
-WinkLinuxC is a lightweight Linux distribution built around a custom C-based init system and shell
+WinkLinuxC is a lightweight Linux distribution built around a custom C-based init system and shell.
 
 ## Features
 
@@ -14,7 +14,7 @@ WinkLinuxC is a lightweight Linux distribution built around a custom C-based ini
 
 ## Current version
 
-**0.2** — Initial public release
+**0.2** — Initial public release.
 
 ## Building
 
@@ -24,14 +24,14 @@ The root `CMakeLists.txt` builds the C programs:
 - `sh`
 - `winkfetch`
 
-Full ISO creation currently uses the project's separate build setup
+Full ISO creation currently uses the project's separate build setup.
 
 ## Booting
 
-Download the WinkLinuxC ISO from the [GitHub Releases](https://github.com/kyozf/WinkLinuxC/releases) page
+Download the WinkLinuxC ISO from the [GitHub Releases](https://github.com/kyozf/WinkLinuxC/releases) page.
 
-The current release targets x86_64 systems
+The current release targets x86_64 systems.
 
 ## Project status
 
-WinkLinuxC is an experimental project and is under active development
+WinkLinuxC is an experimental project and is under active development.
